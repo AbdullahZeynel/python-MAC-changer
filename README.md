@@ -1,4 +1,3 @@
-```markdown
 # MAC Address Changer Tool
 
 ## Overview
@@ -20,13 +19,13 @@ The MAC Address Changer Tool allows users to view and modify the MAC address of 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/AbdullahZeynel/python-MAC-changer.git
+   git clone https://github.com/yourusername/mac-address-changer.git
    ```
 
 2. **Navigate to the Directory**
 
    ```bash
-   cd python-MAC-changer
+   cd mac-address-changer
    ```
 
 3. **Ensure `ifconfig` is Installed**
@@ -118,8 +117,3 @@ Feel free to submit issues or pull requests to improve the tool. For major chang
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Repository
-
-For more information, visit the [GitHub repository](https://github.com/AbdullahZeynel/python-MAC-changer).
-```
